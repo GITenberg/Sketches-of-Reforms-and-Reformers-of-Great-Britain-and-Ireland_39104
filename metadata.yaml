@@ -1,0 +1,34 @@
+_repo: Sketches-of-Reforms-and-Reformers-of-Great-Britain-and-Ireland_39104
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stanton, Henry B. (Henry Brewster)
+    aliases:
+    - Stanton, Henry Brewster
+    - Stanton, H. B. (Henry Brewster)
+    birthdate: 1805
+    deathdate: 1887
+    gutenberg_agent_id: '39844'
+    url: http://www.gutenberg.org/2009/agents/39844
+description: ''
+gutenberg_issued: '2012-03-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39104'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social reformers -- Ireland'
+- !lcsh 'Ireland -- Politics and government'
+- !lcsh 'Social reformers -- Great Britain'
+- !lcsh 'Ireland -- Social conditions'
+- !lcsh 'Great Britain -- Social conditions'
+- !lcsh 'Great Britain -- Politics and government'
+- !lcc 'DA'
+title: Sketches of Reforms and Reformers, of Great Britain and Ireland
+url: http://www.gutenberg.org/ebooks/39104
